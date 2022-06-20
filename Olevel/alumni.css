@@ -1,0 +1,16 @@
+body{
+    background-color:aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: cursive;
+    font-weight: 100;
+}
+table{
+    background-color: lightskyblue;
+}
+.app_alumni_list{
+    border-collapse:collapse;
+    border: 20px;
+    
+}
